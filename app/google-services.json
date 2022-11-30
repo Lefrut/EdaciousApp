@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657237244915",
+    "project_id": "edaciousapp",
+    "storage_bucket": "edaciousapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657237244915:android:0a6141e8247adb596bf086",
+        "android_client_info": {
+          "package_name": "ru.dashkevich.edaciousapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657237244915-anc5eua729ei3qbo4omhk67j64m68emk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeK9NZhvt2I86f3sf48X04C7DfllEtSw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657237244915-anc5eua729ei3qbo4omhk67j64m68emk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
